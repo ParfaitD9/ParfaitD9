@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @ParfaitD9
 - 👀 I’m interested in Data with **Python**, **SQL** and **Rust**
 - 🌱 I’m currently learning **Rust** and **Software Development Design Patterns**
-- 💞️ I’m looking to collaborate on **Data**, **Web scraping** and **Automation*** projects.
+- 💞️ I’m looking to collaborate on **Data**, **Web scraping** and **Automation** projects.
 - 📫 How to reach me ? Just let message on [mail](mailto:pdetchenou@gmail.com)
 
 <!---
